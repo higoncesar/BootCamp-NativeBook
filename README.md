@@ -13,7 +13,7 @@ Rodar o comando para Bild do Projeto:
 
 ## OBJETIVO
 
-Criar uma aplicação, semelhante a um feed de posts do Facebook.
+Criar uma aplicação Mobile com React Native, semelhante a um feed de posts do Facebook.
 
 # REGRAS
 
