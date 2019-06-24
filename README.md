@@ -19,8 +19,8 @@ Criar uma aplicação, semelhante a um feed de posts do Facebook.
 
 <ul>
   <li>
-    O layout deve ser criado utilizando apenas os componentes <View /> , <Text /> e
-    <ScrollView /> do React Native;
+    O layout deve ser criado utilizando apenas os componentes View, Text e
+    ScrollView do React Native;
   </li>
   <li>
     A caixa branca com o título “Aprendendo React Native” deve estar separada em outro
