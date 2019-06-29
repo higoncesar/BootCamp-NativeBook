@@ -1,16 +1,5 @@
 # Desafio 01 - React Native- BootCamp Rocketseat
 
-## INSTALAÇÃO
-
-Após clonar o repositorio com o comando:
-\$ git clone https://github.com/higoncesar/BootCamp-DevLocation
-
-Entrar dentro da Pasta do Projeto:
-\$ cd BootCamp-DevLocation
-
-Rodar o comando para Bild do Projeto:
-\$ npm install && react-native run-android ou react-native run-ios
-
 ## OBJETIVO
 
 Criar uma aplicação Mobile com React Native, semelhante a um feed de posts do Facebook.
@@ -31,6 +20,17 @@ Criar uma aplicação Mobile com React Native, semelhante a um feed de posts do 
     renderizados em tela utilizando a função map para percorrê-los.
   </li>
 </ul>
+
+## INSTALAÇÃO
+
+Após clonar o repositorio com o comando:
+\$ git clone https://github.com/higoncesar/BootCamp-DevLocation
+
+Entrar dentro da Pasta do Projeto:
+\$ cd BootCamp-DevLocation
+
+Rodar o comando para Bild do Projeto:
+\$ npm install && react-native run-android ou react-native run-ios
 
 ## TECNOLOGIAS / LIBS UTILIZADAS
 
